@@ -10,4 +10,9 @@ public class Calculo {
 		return a * b;
 	}
 	
+	public float subtrai(float a, float b) {
+		return a - b;
+	}
+	
+	
 }
